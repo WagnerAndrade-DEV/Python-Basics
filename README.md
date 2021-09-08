@@ -1,2 +1,3 @@
 # Python Basics
- Primeiros passos com Python
+ Primeiros passos com Python.
+..
